@@ -7,7 +7,8 @@
     color: #FD6E0A;
 }
 .org-button{
-   padding: 18px 35px 19px 36px;
+   /* padding: 18px 35px 19px 36px; */
+   padding: 19px 17px 18px 17px;
     background: #FD6E0A;
     border-radius: 5px;
     height: 64px;
@@ -43,8 +44,8 @@ nav li{
     align-items: center;
 }
 .author-name{
-    font-weight: 700;
-font-size: 85px;
+    font-weight: 900;
+font-size: 60px;
 
 }
 .banner-title{
@@ -52,8 +53,18 @@ font-size: 85px;
 font-size: 45px;
 }
 .banner-des{
-
+    font-weight: 400;
+    font-size: 18px;
+    color: #757575;
+    padding-bottom: 30px;
 }
-/* .pic{
-    margin: -10px;
+.contac{
+    display: flex;
+  
+}
+/* #con{
+    margin-left: ;
+    font-weight: 700;
+font-size: 20px;
+padding: 19px 23px 18px 58px;
 } */
